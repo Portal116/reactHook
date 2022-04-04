@@ -7,14 +7,14 @@
 
 // export default App;
 
-import React from "react";
-import Info from "./Info";
+// import React from "react";
+// import Info from "./Info";
 
-const App = () => {
-  return <Info />;
-};
+// const App = () => {
+//   return <Info />;
+// };
 
-export default App;
+// export default App;
 
 // import React, { useState } from "react";
 // import Info from "./Info";
@@ -46,3 +46,12 @@ export default App;
 // };
 
 // export default App;
+
+import React from "react";
+import Average from "./Average";
+
+const App = () => {
+  return <Average />;
+};
+
+export default App;
